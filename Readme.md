@@ -8,6 +8,9 @@ SQLPrompt is a text-to-SQL application that allows users to interact with a SQLi
 - Execute SQL queries on a SQLite database
 - Display query results in a tabular format
 
+## Screenshot
+![SQLPrompt Screenshot](https://github.com/Abdul-Moiz-Shehzad/SQLPrompt-Gemini-1.5-Flash/blob/main/Screenshot.png)
+
 ## Requirements
 
 - Python 3.9+
